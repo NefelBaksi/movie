@@ -27,3 +27,10 @@ Film-Trailer: Benutzer können zu jedem Film den Trailer ansehen, um sich vorab 
 # Verwendete API ✔️
 
 Dieses Projekt verwendet die The Movie Database (TMDb) API, um Filminformationen bereitzustellen. Die TMDb API bietet umfangreiche Daten über weltweit beliebte Filme, TV-Shows, Schauspieler und vieles mehr. Die über die API abgerufenen Daten werden in Echtzeit an den Benutzer übertragen.
+
+# Vorschau
+![EkranKayd2025-01-1602 12 35-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/05e855ab-8394-4cd3-b9c6-d63e568f45f2)
+
+
+# Für Weitere Informationen nehmen Sie bitte Kontakt mit mir auf 🦋
+📧 nefel.baksi@gmail.com
